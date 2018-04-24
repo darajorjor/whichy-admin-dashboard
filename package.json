@@ -10,7 +10,7 @@
     "build": "yarn run build:client && yarn run build:server",
     "build:client": "cross-env NODE_ENV=production webpack --config ./config/webpack.client.config.js",
     "build:server": "cross-env NODE_ENV=production webpack --config ./config/webpack.server.config.js",
-    "serve": "cross-env NODE_ENV=production BUGS_API_URL='http://bugs-dev.csgoboy.info/api/v1' SH_API_URL='http://sh-dev.csgoboy.info/api/v1' PORT=8880 node server",
+    "serve": "cross-env NODE_ENV=production API_URL='http://http://78.46.245.120:4040/v1/panel' PORT=8080 node server",
     "start": "cross-env NODE_ENV=development node server",
     "test": "jest"
   },
