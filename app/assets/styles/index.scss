@@ -1,0 +1,41 @@
+@import 'fonts';
+
+body {
+  font-family: 'Montserrat';
+  font-weight: normal;
+  padding: 0;
+  margin: 0;
+  //background-color: #1b1b21;
+  font-size: calc(14px + .03vw);
+  overflow-x: hidden;
+  //color: #fff;
+}
+
+* {
+  letter-spacing: 1.2px;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+
+main {
+  padding: 0;
+  margin: 0;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+a {
+  color: #FFBF00;
+
+  &:active {
+    color: #b98b00;
+  }
+}
+
+

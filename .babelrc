@@ -1,0 +1,32 @@
+{
+  "plugins": [
+    "transform-decorators-legacy",
+    "react-hot-loader/babel",
+    "transform-object-rest-spread",
+    "syntax-object-rest-spread",
+    "syntax-dynamic-import",
+    [
+      "transform-class-properties",
+      {
+        "loose": true
+      }
+    ]
+  ],
+  "presets": [
+    "react",
+    [
+      "env",
+      {
+        "loose": true,
+        "targets": {
+          "browsers": [
+            "> 5%"
+          ]
+        },
+        "include": [
+          "transform-es2015-classes"
+        ]
+      }
+    ]
+  ]
+}

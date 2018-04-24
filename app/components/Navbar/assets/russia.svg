@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>russia</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="UI-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-815.000000, -691.000000)">
+        <g id="Flags" transform="translate(769.000000, 606.000000)" fill-rule="nonzero">
+            <g id="russia" transform="translate(46.000000, 85.000000)">
+                <path d="M15.9303906,0.01078125 L4.06960937,0.01078125 C1.79585937,0.167617187 0,2.06144531 0,4.375 L0,6.67027344 L20,6.67027344 L20,4.375 C20,2.06144531 18.2041016,0.167617187 15.9303906,0.01078125 Z" id="Shape" fill="#F5F5F5"></path>
+                <path d="M0,15.625 C0,17.9385937 1.79589844,19.8324219 4.06964844,19.9892187 L15.9303516,19.9892187 C18.2041016,19.8324219 20,17.9385937 20,15.625 L20,13.3297266 L0,13.3297266 L0,15.625 Z" id="Shape" fill="#FF4B55"></path>
+                <rect id="Rectangle-path" fill="#41479B" x="0" y="6.6703125" width="20" height="6.659375"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

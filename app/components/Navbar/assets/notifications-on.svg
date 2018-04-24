@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="16px" viewBox="0 0 14 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>notifications</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="UI-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-655.000000, -580.000000)">
+        <g id="Notification" transform="translate(400.000000, 580.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="notifications" transform="translate(255.000000, 0.000000)">
+                <path d="M6.72908077,15.8331312 C7.59990298,15.8331312 8.31239389,15.1206403 8.31239389,14.2498181 L5.14576764,14.2498181 C5.14576764,15.1206403 5.85825855,15.8331312 6.72908077,15.8331312 Z M11.8748484,11.0831919 L11.8748484,6.72908077 C11.8748484,4.27494543 10.2123696,2.29580403 7.91656561,1.74164443 L7.91656561,1.18748484 C7.91656561,0.554159593 7.36240602,0 6.72908077,0 C6.09575552,0 5.54159593,0.554159593 5.54159593,1.18748484 L5.54159593,1.74164443 C3.2457919,2.29580403 1.58331312,4.27494543 1.58331312,6.72908077 L1.58331312,11.0831919 L0,12.666505 L0,13.4581615 L13.4581615,13.4581615 L13.4581615,12.666505 L11.8748484,11.0831919 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

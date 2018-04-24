@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>germany</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="UI-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-815.000000, -656.000000)">
+        <g id="Flags" transform="translate(769.000000, 606.000000)" fill-rule="nonzero">
+            <g id="germany" transform="translate(46.000000, 50.000000)">
+                <path d="M15.6251953,0 L4.37480469,0 C1.95863281,7.8125e-05 0,1.95882813 0,4.375 L0,6.66667969 L20,6.66667969 L20,4.375 C20,1.95882813 18.0413281,7.8125e-05 15.6251953,0 Z" id="Shape" fill="#464655"></path>
+                <path d="M0,15.625 C0,18.04125 1.95875,20 4.375,20 L15.625,20 C18.04125,20 20,18.04125 20,15.625 L20,13.3333203 L0,13.3333203 L0,15.625 Z" id="Shape" fill="#FFE15A"></path>
+                <rect id="Rectangle-path" fill="#FF4B55" x="0" y="6.66679687" width="20" height="6.66679687"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

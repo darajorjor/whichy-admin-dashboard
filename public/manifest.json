@@ -1,0 +1,15 @@
+{
+  "short_name": "Looney Toons",
+  "name": "Looney Toons",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#1B1B21"
+}
